@@ -2,7 +2,4 @@ numpy
 pandas
 gunicorn
 pickle
-streamlit
-sklearn
-matplotlib
-seaborn
+
