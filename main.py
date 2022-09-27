@@ -121,6 +121,10 @@ with Trained_model:
         with col3:
             st.text(recommended_book_names[2][0])
             st.image(recommended_book_names[2][1])
+            
+            
+            
+            
         
         
         
